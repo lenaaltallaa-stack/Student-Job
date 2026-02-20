@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  transition: 0.3s;
+}
+
+.job-img {
+  height: 150px;
+  object-fit: cover;
+}
